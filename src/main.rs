@@ -1,7 +1,7 @@
-mod constants;
-// mod player;
-// mod game_state;
 mod board;
+mod constants;
+mod game_state;
+mod player;
 
 use board::Board;
 use constants::CardType;
